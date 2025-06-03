@@ -1,2 +1,2 @@
-# Assignment-OOP2
+# Solid principles Assignment-OOP2
 Code snipets to show the SOLID principles 
