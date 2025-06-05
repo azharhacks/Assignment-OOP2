@@ -10,7 +10,7 @@ class EmailSender implements MessageSender {
         System.out.println("Sending email to " + recipient + ": " + message);
         
     }
-}
+} 
 
 class SMSSender implements MessageSender {
     @Override
