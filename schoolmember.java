@@ -1,4 +1,4 @@
-//interfaces
+//interfaces segregation principle
 interface TeacherDuties {
     void teach();
     void markAttendance();
